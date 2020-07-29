@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBlog</string>
+    <string name="signup">Need an Account? Signup here</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Blog!</string>
+    <string name="login">Login</string>
+    <string name="welcome2">Welcome to your blog!</string>
+    <string name="logout">Logout</string>
+</resources>
